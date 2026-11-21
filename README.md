@@ -1,8 +1,8 @@
 ## Hi There! 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="LinkedinPhoto1.jpg">
- <source media="(prefers-color-scheme: light)" srcset="LinkedinPhoto1.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="Photo_for_GitHub.png">
+ <source media="(prefers-color-scheme: light)" srcset="Photo_for_GitHub.png">
  <img alt="YOUR-ALT-TEXT" src="LinkedinPhoto1.jpg">
 </picture>
 
