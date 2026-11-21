@@ -1,9 +1,9 @@
 ## Hi There! 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
- <source media="(prefers-color-scheme: light)" srcset="">
- <img alt="YOUR-ALT-TEXT" src="">
+ <source media="(prefers-color-scheme: dark)" srcset="LinkedinPhoto1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="LinkedinPhoto1.jpg">
+ <img alt="YOUR-ALT-TEXT" src="LinkedinPhoto1.jpg">
 </picture>
 
 Computer Science Freshman at UIC ‘29 | Seeking Software Engineering and Data Science & Machine Learning Opportunities | Passionate About Building Educational Tech & Web Development 
