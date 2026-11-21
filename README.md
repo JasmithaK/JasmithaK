@@ -1,10 +1,6 @@
 ## Hi There! 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Photo_for_GitHub.png">
- <source media="(prefers-color-scheme: light)" srcset="Photo_for_GitHub.png">
- <img alt="YOUR-ALT-TEXT" src="LinkedinPhoto1.jpg">
-</picture>
+<img src="Photo_for_GitHub.png" alt="My profile image" width="33%">
 
 Computer Science Freshman at UIC ‘29 | Seeking Software Engineering and Data Science & Machine Learning Opportunities | Passionate About Building Educational Tech & Web Development 
 
