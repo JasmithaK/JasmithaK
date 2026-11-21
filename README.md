@@ -9,7 +9,7 @@ Hi! I’m a student at the University of Illinois Chicago, currently pursuing a 
 
 Table of Contents: 
 
-1. Clock-In: A web-based study tracking application built with Python, Flask, and SQLite that allows students to record study sessions, organize their work by course, and analyze their study habits.
+1. [Clock-In:]([https://github.com/USERNAME/REPOSITORY-NAME](https://github.com/JasmithaK/Clock-In)) A web-based study tracking application built with Python, Flask, and SQLite that allows students to record study sessions, organize their work by course, and analyze their study habits.
 
 <!--
 **JasmithaK/JasmithaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
