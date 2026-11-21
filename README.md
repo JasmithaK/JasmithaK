@@ -1,10 +1,19 @@
 ## Hi There! 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://media.licdn.com/dms/image/v2/D5603AQHPGsSFQwmLoQ/profile-displayphoto-crop_800_800/B56aDUaoeJJ8AI-/0/1790270150046?e=1796860800&v=beta&t=1hcU-W1kyBn4EETVNjMWkHtSZUuiMIoyYwJzUTigTFw)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://media.licdn.com/dms/image/v2/D5603AQHPGsSFQwmLoQ/profile-displayphoto-crop_800_800/B56aDUaoeJJ8AI-/0/1790270150046?e=1796860800&v=beta&t=1hcU-W1kyBn4EETVNjMWkHtSZUuiMIoyYwJzUTigTFw)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://media.licdn.com/dms/image/v2/D5603AQHPGsSFQwmLoQ/profile-displayphoto-crop_800_800/B56aDUaoeJJ8AI-/0/1790270150046?e=1796860800&v=beta&t=1hcU-W1kyBn4EETVNjMWkHtSZUuiMIoyYwJzUTigTFw)">
+ <source media="(prefers-color-scheme: dark)" srcset="">
+ <source media="(prefers-color-scheme: light)" srcset="">
+ <img alt="YOUR-ALT-TEXT" src="">
 </picture>
+
+Computer Science Freshman at UIC ‘29 | Seeking Software Engineering and Data Science & Machine Learning Opportunities | Passionate About Building Educational Tech & Web Development 
+
+About me:
+Hi! I’m a student at the University of Illinois Chicago, currently pursuing a degree in Computer Science with a concentration in Software Engineering. My interest in technology started long before I knew I wanted to study computer science. In fact it started with a love for math. I’ve always enjoyed the logic behind math and the satisfaction of working through a particularly difficult problem until everything finally clicks. That curiosity and love for problem-solving eventually led me to computer science. I began to see programming as another way to take a complex problem, break it down logically, and build something useful from it. Now at UIC, I’m developing that interest through coursework in programming, mathematical foundations of computing, linear algebra, and technical communication while continuing to explore software development outside the classroom through personal work and several interest groups. As I continue through college, I’m looking for opportunities to turn what I’m learning into tools that are genuinely useful to people. My goal is to contribute to real-world development teams through software engineering internships, and to continue building projects that challenge me to think both technically and creatively.
+
+Table of Contents: 
+
+1. Clock-In: A web-based study tracking application built with Python, Flask, and SQLite that allows students to record study sessions, organize their work by course, and analyze their study habits.
 
 <!--
 **JasmithaK/JasmithaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
