@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi There! 
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://media.licdn.com/dms/image/v2/D5603AQHPGsSFQwmLoQ/profile-displayphoto-crop_800_800/B56aDUaoeJJ8AI-/0/1790270150046?e=1796860800&v=beta&t=1hcU-W1kyBn4EETVNjMWkHtSZUuiMIoyYwJzUTigTFw)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://media.licdn.com/dms/image/v2/D5603AQHPGsSFQwmLoQ/profile-displayphoto-crop_800_800/B56aDUaoeJJ8AI-/0/1790270150046?e=1796860800&v=beta&t=1hcU-W1kyBn4EETVNjMWkHtSZUuiMIoyYwJzUTigTFw)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://media.licdn.com/dms/image/v2/D5603AQHPGsSFQwmLoQ/profile-displayphoto-crop_800_800/B56aDUaoeJJ8AI-/0/1790270150046?e=1796860800&v=beta&t=1hcU-W1kyBn4EETVNjMWkHtSZUuiMIoyYwJzUTigTFw)">
+</picture>
 
 <!--
 **JasmithaK/JasmithaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
