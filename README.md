@@ -1,4 +1,4 @@
-## Hi There! 
+## Hi There! My name is Jasmitha Kokanti. 
 
 <img src="Photo_for_GitHub.png" alt="My profile image" width="33%">
 
