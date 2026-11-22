@@ -5,7 +5,7 @@
 Computer Science Freshman at UIC ‘29 | Seeking Software Engineering and Data Science & Machine Learning Opportunities | Passionate About Building Educational Tech & Web Development 
 
 Contact Info: 
-- Gmail: jas.kokanti@gmail.com
+- jas.kokanti@gmail.com
 - [Linked-In](https://www.linkedin.com/in/jasmitha-kokanti/)
 
 About me:
